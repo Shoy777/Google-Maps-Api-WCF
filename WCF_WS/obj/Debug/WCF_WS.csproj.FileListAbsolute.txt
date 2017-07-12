@@ -1,0 +1,10 @@
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\bin\WCF_WS.dll.config
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\bin\WCF_WS.dll
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\bin\WCF_WS.pdb
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\bin\EntityFramework.dll
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\bin\EntityFramework.SqlServer.dll
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\bin\EntityFramework.xml
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\bin\EntityFramework.SqlServer.xml
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\obj\Debug\WCF_WS.dll
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\obj\Debug\WCF_WS.pdb
+C:\Users\Froilan\Desktop\Proyectos\c#\aspnet\mvc\WCF\WCF_WS\obj\Debug\WCF_WS.csprojResolveAssemblyReference.cache
